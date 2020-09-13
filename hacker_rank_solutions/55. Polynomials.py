@@ -1,4 +1,4 @@
-import numpy
+import numpy as np
 
 
 poly = [float(x) for x in input().split()]
